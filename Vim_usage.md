@@ -106,3 +106,6 @@
 |  M   | move cursor to the middle of thw window  |
 |  L   | move cursor to the bottom of the window  |
 |  gg  |          go to the top of file           |
+
+
+#Hi
