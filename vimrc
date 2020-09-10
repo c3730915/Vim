@@ -26,7 +26,9 @@ Plugin 'yggdroot/indentline'
 nmap <F6> :NERDTreeToggle<CR>
 "to use F6 open NERDTRee
 autocmd vimenter * NERDTree
+autocmd VimEnter * wincmd p
 " open NERDTREE automacitally when vim is opened
+" open NERDTree and move the cursor to the file editing area
 
 Plugin 'suan/vim-instant-markdown', {'rtp': 'after'}
 Plugin 'plasticboy/vim-markdown'
